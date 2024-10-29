@@ -1,0 +1,14 @@
+D:\UNIVERSITY\Sem5\PRN212\CODE\DEMO_FileStream\DEMO_FileStream\bin\Debug\net8.0\DEMO_FileStream.exe
+D:\UNIVERSITY\Sem5\PRN212\CODE\DEMO_FileStream\DEMO_FileStream\bin\Debug\net8.0\DEMO_FileStream.deps.json
+D:\UNIVERSITY\Sem5\PRN212\CODE\DEMO_FileStream\DEMO_FileStream\bin\Debug\net8.0\DEMO_FileStream.runtimeconfig.json
+D:\UNIVERSITY\Sem5\PRN212\CODE\DEMO_FileStream\DEMO_FileStream\bin\Debug\net8.0\DEMO_FileStream.dll
+D:\UNIVERSITY\Sem5\PRN212\CODE\DEMO_FileStream\DEMO_FileStream\bin\Debug\net8.0\DEMO_FileStream.pdb
+D:\UNIVERSITY\Sem5\PRN212\CODE\DEMO_FileStream\DEMO_FileStream\obj\Debug\net8.0\DEMO_FileStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\Sem5\PRN212\CODE\DEMO_FileStream\DEMO_FileStream\obj\Debug\net8.0\DEMO_FileStream.AssemblyInfoInputs.cache
+D:\UNIVERSITY\Sem5\PRN212\CODE\DEMO_FileStream\DEMO_FileStream\obj\Debug\net8.0\DEMO_FileStream.AssemblyInfo.cs
+D:\UNIVERSITY\Sem5\PRN212\CODE\DEMO_FileStream\DEMO_FileStream\obj\Debug\net8.0\DEMO_FileStream.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\Sem5\PRN212\CODE\DEMO_FileStream\DEMO_FileStream\obj\Debug\net8.0\DEMO_FileStream.dll
+D:\UNIVERSITY\Sem5\PRN212\CODE\DEMO_FileStream\DEMO_FileStream\obj\Debug\net8.0\refint\DEMO_FileStream.dll
+D:\UNIVERSITY\Sem5\PRN212\CODE\DEMO_FileStream\DEMO_FileStream\obj\Debug\net8.0\DEMO_FileStream.pdb
+D:\UNIVERSITY\Sem5\PRN212\CODE\DEMO_FileStream\DEMO_FileStream\obj\Debug\net8.0\DEMO_FileStream.genruntimeconfig.cache
+D:\UNIVERSITY\Sem5\PRN212\CODE\DEMO_FileStream\DEMO_FileStream\obj\Debug\net8.0\ref\DEMO_FileStream.dll
